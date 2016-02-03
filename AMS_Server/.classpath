@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="com/example/screenbroadcast2/AlwaysOnTopService.java|com/example/screenbroadcast2/BroadAdapter.java|com/example/screenbroadcast2/CamView.java|com/example/screenbroadcast2/CamViewActivity.java|com/example/screenbroadcast2/Chat.java|com/example/screenbroadcast2/ChatAdapter.java|com/example/screenbroadcast2/DBconnection.java|com/example/screenbroadcast2/GCMIntentService.java|com/example/screenbroadcast2/ImageDownloader.java|com/example/screenbroadcast2/LobbyActivity.java|com/example/screenbroadcast2/MainActivity.java|com/example/screenbroadcast2/Member.java|com/example/screenbroadcast2/Room.java|com/example/screenbroadcast2/SplashActivity.java|com/example/screenbroadcast2/WatchActivity.java|com/example/screenbroadcast2/WebSite.java|com/example/screenbroadcast2/ScreenRecord.java|pl/polidea/asl/demo/ScreenshotDemo.java|pl/polidea/asl/|org/secmem/amsserver/NetworkService.java|com/artifex/mupdf/MuPDFServiceTestActivity.java" kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
